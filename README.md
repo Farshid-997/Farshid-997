@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Hey!+It's+Farshid;I'm+a+FullStack+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2336BCF7&size=40&lines=Hey!+It's+Farshid;I'm+a+FullStack+Developer...)](https://git.io/typing-svg)
 
 
 <br>
