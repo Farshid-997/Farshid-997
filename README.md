@@ -16,6 +16,7 @@
 <h2 align="left">About Me:</h3>
 
 <br>
+<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 - 🌱 I’m currently learning Full Stack Development, Working as a Software Engineer(Full Stack).
 - 📫 How to reach me **farshidahsan22@gmail.com**
