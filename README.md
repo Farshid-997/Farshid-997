@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Farshid Ahsan </h1>
+<h1 align="center">Hi 👋, I'm Farshid Ahsan 
+
 
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF77A&size=30&lines=Hey!+It's+Farshid;I'm+a+FullStack+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF77A&size=40&lines=Hey!+It's+Farshid;I'm+a+FullStack+Developer...)](https://git.io/typing-svg)
 
 
 <br>
@@ -18,7 +19,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Full Stack Development Working as a Software ENginner
+- 🌱 I’m currently learning Full Stack Development, Working as a Software Engineer(Full Stack).
 - 📫 How to reach me **farshidahsan22@gmail.com**
 - 🌱 Currently working with MEARN Stack 
 - 👯 Interested in leaning  new technologies and try to implement them in real time projects
@@ -28,9 +29,7 @@
 
 <h2 align="left">Contact With Me:</h3>
 
- 
- 
-<br>
+ <br>
 
 <p align="left">
 
@@ -84,8 +83,6 @@
 </div>
 
 
-      
-    
 <br>
 
 <h2>Statistical Data :-</h3>
