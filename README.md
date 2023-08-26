@@ -19,10 +19,10 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 - 🌱 I’m currently learning Full Stack Development, Working as a Software Engineer(Full Stack).
-- 📫 How to reach me **farshidahsan22@gmail.com**
-- 🌱 Currently working with MEARN Stack 
-- 👯 Interested in leaning  new technologies and try to implement them in real time projects
-- ⚡ Fun fact: I love to travelling and play video games
+- 📫 How to reach me, **farshidahsan22@gmail.com**
+- 🌱 Currently working with MEARN Stack .
+- 👯 Interested in leaning  new technologies and try to implement them in real life projects.
+- ⚡ Fun fact: I love to travelling and play video games.
 
 <br>
 
